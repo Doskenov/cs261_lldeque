@@ -26,4 +26,6 @@ int main(int argc, char** argv) {
   }
   printf(" empty\n");
 
+  lldeque_free(q);
+
 }
