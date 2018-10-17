@@ -1,3 +1,4 @@
-lldeque.o
-test_lldeque
+*.o
 *.dSYM
+test_lldeque
+test_lldeque_iterator
